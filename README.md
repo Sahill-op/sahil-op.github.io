@@ -20,17 +20,9 @@
 
 <img src="https://telegra.ph/file/359c4ec195e75b475d6f9.jpg">
 
-## Connect with me:
-[<img align="left" color="blue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
 
 # Credit
-Hellboy
-
-# License
-
-[![License](https://img.shields.io/badge/Apache-2.0-red?style=flat-square)](https://github.com/krishna6688/Portfolio/blob/main/LICENSE)
+  Hellboy
 
 # Hosting
 
