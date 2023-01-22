@@ -5,16 +5,16 @@
 
 <h1 align="center">
 
-[![PORTFOLIO](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sahill-op.github.io/sahilsi552.github.io/)
+[![PORTFOLIO](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sahilsi552.github.io/sahil-op.github.io/)
 
 </h1>
 </details>
 
 <h1 align="center">Portfolio Theme</h1>
-<p><b>A light weight , responsive portfolio theme by <a href="https://github.com/sahill-op">sahil</a></b></p>
+<p><b>A light weight , responsive portfolio theme by <a href="https://sahilsi552.github.io/sahil-op.github.io/">sahil</a></b></p>
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://sahill-op.github.io/sahil-op.github.io/)
-[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/sahill-op/Portfolio/fork)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://sahilsi552.github.io/sahil-op.github.io/)
+[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/sahilsi552/Portfolio/fork)
 
 <p> Join our group for more templates and updates <a href="https://t.me/about_sahill"><b>sahil_Zone</b></a></p>
 
